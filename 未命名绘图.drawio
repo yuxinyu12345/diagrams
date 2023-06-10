@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T00:36:44.954Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="QPJbEWO_Sc24TDA5Rpqh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T00:40:16.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3Bcnka4ybrVnC0cLOu9X" version="21.3.8" type="github">
   <diagram name="第 1 页" id="gOWh4bsSOilAbhUZOZQY">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_G4U9EJ0u--w71G63Yty-1" value="运营需求" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_G4U9EJ0u--w71G63Yty-6" value="产品经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_G4U9EJ0u--w71G63Yty-7" value="前端开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_G4U9EJ0u--w71G63Yty-8" value="后端开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_G4U9EJ0u--w71G63Yty-9" value="测试" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
