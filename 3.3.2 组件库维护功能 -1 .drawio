@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T08:23:27.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UhG2ymgpAutudpvzPNTb" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T08:23:41.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_z6u9f_6rTvxfse5iqHX" version="21.7.0" type="github">
   <diagram name="第 1 页" id="SYR_mBhMT7OilYum2Zrg">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="L0a41EfqPlKiwIcuqvLm-11" value="上架/下架组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L0a41EfqPlKiwIcuqvLm-12" value="新增组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L0a41EfqPlKiwIcuqvLm-12" value="删除组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
