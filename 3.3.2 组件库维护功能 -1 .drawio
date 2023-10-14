@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T08:20:52.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tvxinOJMBPSS4wJU_T7O" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T08:21:47.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ttGh2ct6ErNlyPzTskMl" version="21.7.0" type="github">
   <diagram name="第 1 页" id="SYR_mBhMT7OilYum2Zrg">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L0a41EfqPlKiwIcuqvLm-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="50" height="80" as="geometry" />
+        <mxCell id="L0a41EfqPlKiwIcuqvLm-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
