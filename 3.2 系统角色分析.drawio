@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T08:22:22.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0TizdrtkKJ-A6SLdRngK" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T08:54:41.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LkqcFODcRy9zaFrm0rFw" version="21.7.0" type="github">
   <diagram name="第 1 页" id="uGb3mlXIUazgqTFXJLFu">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
           <mxGeometry x="1710" y="1110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="980" width="460" height="460" as="geometry" />
+          <mxGeometry x="1760" y="930" width="510" height="510" as="geometry" />
         </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-87" value="页面设计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1955" y="1070" width="100" height="60" as="geometry" />
@@ -430,6 +430,15 @@
             <mxPoint x="2050" y="1250" as="sourcePoint" />
             <mxPoint x="2100" y="1200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ymelzY1RwOhpvOn5nYsV-118" value="系统用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymelzY1RwOhpvOn5nYsV-119" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymelzY1RwOhpvOn5nYsV-120" value="页面在线实时协同设计功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1931.5" y="940" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
