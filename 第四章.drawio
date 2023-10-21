@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T03:20:15.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mbpKKlBg0fk7E9fwUqDA" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T03:27:16.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="M9zUep9VvkXdvPcQFzMN" version="22.0.6" type="github">
   <diagram name="第 1 页" id="UROkZfkym0-Oqt58SDqi">
-    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-1" value="视图展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" width="120" height="90" as="geometry" />
+          <mxGeometry x="70" y="-30" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-2" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;传输层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
@@ -19,29 +19,65 @@
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;数据存储层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" width="530" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-7" value="展示与互动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-8" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="10" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-9" value="拖拽页面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="10" width="81" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-10" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;数据模型层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="121" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-11" value="在线编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="81" height="30" as="geometry" />
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="34.5" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-12" value="Json解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="10" width="81" height="30" as="geometry" />
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="-30" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-13" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="10" width="81" height="30" as="geometry" />
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-18">
+          <mxGeometry width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-17" value="" style="group" vertex="1" connectable="0" parent="vn1lkJvJBzCe5DxKZ6Ij-18">
+          <mxGeometry y="10" width="671" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-7" value="展示与互动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-8" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-9" value="拖拽页面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="159" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-11" value="在线编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="250" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-12" value="Json解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="340" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-13" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="430" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-14" value="SCSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-15" value="UniApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vn1lkJvJBzCe5DxKZ6Ij-17">
+          <mxGeometry x="590" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-19" value="接口调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="44.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-31" value="Axios库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="44.5" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-32" value="Ajax异步调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="44" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527" y="34.25" width="353" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-34" value="状态存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="44" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-35" value="基于内存的Vuex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="43.5" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-36" value="持久化存储locaStorage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="43.5" width="90" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
