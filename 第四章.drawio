@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T03:31:10.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wCbyeIj6ONmt_K8BAhFI" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T03:44:13.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-4o_fK0oTG_gKIW69gPa" version="22.0.6" type="github">
   <diagram name="第 1 页" id="UROkZfkym0-Oqt58SDqi">
     <mxGraphModel dx="954" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-3" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;业务逻辑层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-4" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;数据访问层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;数据存储层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-10" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;数据模型层&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="121" width="120" height="60" as="geometry" />
@@ -80,10 +80,73 @@
           <mxGeometry x="737" y="43.5" width="90" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="126" width="680" height="50" as="geometry" />
+          <mxGeometry x="200" y="122" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-38" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="136" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-39" value="Yjs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="136" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-40" value="Automerge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="135.5" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="211" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-42" value="数据传输" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-43" value="Http请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="225.5" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-44" value="Post请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="226" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-45" value="Get请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="226" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-46" value="Websocket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="226" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-48" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-51" value="协同编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="355" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-52" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-53" value="模版页面维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="355" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-54" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="310" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-55" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="355" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-57" value="系统监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="332.5" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="210" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-59" value="权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="282.5" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-61" value="ORM框架Mybatis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="444.75" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-62" value="MongoDB Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="444.75" width="160" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
