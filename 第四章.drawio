@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T03:46:24.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0irUar6QIAjmFBvisDzM" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T03:47:52.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hHG1VHqBf_O5RAvte_mB" version="22.0.6" type="github">
   <diagram name="第 1 页" id="UROkZfkym0-Oqt58SDqi">
     <mxGraphModel dx="954" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,21 @@
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-63" value="IndexDB Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="444.75" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-66" value="关系型数据库MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="544.75" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-67" value="非关系型数据库MongoDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="544.75" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-68" value="非关系型数据库IndexDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="544.75" width="160" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-69" value="对象存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="544.75" width="113" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
