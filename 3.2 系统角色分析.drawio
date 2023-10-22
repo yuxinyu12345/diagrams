@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:05:33.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yOZAzNkztluTL4kMZCZd" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:09:57.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BZX958duV1L4gzkGq8aK" version="22.0.6" type="github">
   <diagram name="第 1 页" id="uGb3mlXIUazgqTFXJLFu">
     <mxGraphModel dx="1735" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -593,10 +593,10 @@
         <mxCell id="ZJbD1y_0_eG-2DNFwoJK-6" value="Array 对象" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1574" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-7" value="cube 配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-7" value="Cube 配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1667" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-8" value="select 选择器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-8" value="Select 选择器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1754" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJbD1y_0_eG-2DNFwoJK-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZJbD1y_0_eG-2DNFwoJK-2" target="ZJbD1y_0_eG-2DNFwoJK-4">
@@ -605,7 +605,7 @@
             <mxPoint x="950" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-10" value="upload 图片上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-10" value="Upload 图片上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1854" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJbD1y_0_eG-2DNFwoJK-11" value="...." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
