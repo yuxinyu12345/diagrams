@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T09:58:05.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sn71EIi7Pq_y4MdwFUH9" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T10:04:41.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ukuc5qoMFrp1XG1efHk5" version="22.0.8" type="github">
   <diagram name="第 1 页" id="UROkZfkym0-Oqt58SDqi">
     <mxGraphModel dx="1735" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -936,22 +936,25 @@
           <mxGeometry x="1212" y="1841" width="25" height="135" as="geometry" />
         </mxCell>
         <mxCell id="-d84WS7j7Ly5eHXUqH7j-61" value="组件库管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1340.5" y="1654" width="25" height="135" as="geometry" />
+          <mxGeometry x="1372" y="1653" width="25" height="135" as="geometry" />
         </mxCell>
         <mxCell id="-d84WS7j7Ly5eHXUqH7j-62" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="1789" width="152" height="50" as="geometry" />
+          <mxGeometry x="1279" y="1789" width="211" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-d84WS7j7Ly5eHXUqH7j-63" value="新增数据源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="-d84WS7j7Ly5eHXUqH7j-63" value="组件分类" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1839" width="25" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="-d84WS7j7Ly5eHXUqH7j-64" value="编辑数据源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1315.5" y="1841" width="25" height="135" as="geometry" />
+        <mxCell id="-d84WS7j7Ly5eHXUqH7j-64" value="组件新增" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1841" width="20.5" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="-d84WS7j7Ly5eHXUqH7j-65" value="删除数据源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="-d84WS7j7Ly5eHXUqH7j-65" value="组件删除" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1365.5" y="1841" width="25" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="-d84WS7j7Ly5eHXUqH7j-66" value="查看数据源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="-d84WS7j7Ly5eHXUqH7j-66" value="组件上架" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1417" y="1839" width="25" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="-d84WS7j7Ly5eHXUqH7j-73" value="组件下架" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1840" width="25" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
