@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T02:59:46.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xrSrIEQPdnkCxTilRDk5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T03:00:15.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="b0WlZgEFRtELgi20KR4w" version="22.0.8" type="github">
   <diagram name="第 1 页" id="uGb3mlXIUazgqTFXJLFu">
     <mxGraphModel dx="1272" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -717,78 +717,78 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1774" width="30" height="60" as="geometry" />
+          <mxGeometry x="1968" y="1914" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-2" value="新增物料组件分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="2108" y="1734" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-3" value="编辑物料组件分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1707" width="120" height="60" as="geometry" />
+          <mxGeometry x="2108" y="1847" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-4" value="删除物料组件分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1824" width="120" height="60" as="geometry" />
+          <mxGeometry x="2108" y="1964" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-5" value="上架/下架物料组件分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1950" width="140" height="60" as="geometry" />
+          <mxGeometry x="2108" y="2090" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-1" target="FpmoM7yMUA3yPXfGOQI7-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1650" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="2248" y="1790" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.022;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-1" target="FpmoM7yMUA3yPXfGOQI7-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1650" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="2248" y="1790" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="FpmoM7yMUA3yPXfGOQI7-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1820" y="1800" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="1998" y="1940" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.033;entryY=0.254;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-1" target="FpmoM7yMUA3yPXfGOQI7-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1650" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="2248" y="1790" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-10" value="新增物料组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="1450" width="100" height="60" as="geometry" />
+          <mxGeometry x="2298" y="1590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-11" value="删除物料组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="1530" width="100" height="60" as="geometry" />
+          <mxGeometry x="2308" y="1670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.96;exitY=0.294;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-2" target="FpmoM7yMUA3yPXfGOQI7-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1650" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="2248" y="1790" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.65;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-2" target="FpmoM7yMUA3yPXfGOQI7-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1650" as="sourcePoint" />
-            <mxPoint x="2120" y="1600" as="targetPoint" />
+            <mxPoint x="2248" y="1790" as="sourcePoint" />
+            <mxPoint x="2298" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-14" value="编辑物料组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="1620" width="100" height="60" as="geometry" />
+          <mxGeometry x="2308" y="1760" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-15" value="上架/下架物料组件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2125" y="1707" width="120" height="54" as="geometry" />
+          <mxGeometry x="2303" y="1847" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.944;exitY=0.806;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-2" target="FpmoM7yMUA3yPXfGOQI7-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2062" y="1643" as="sourcePoint" />
-            <mxPoint x="2140" y="1570" as="targetPoint" />
+            <mxPoint x="2240" y="1783" as="sourcePoint" />
+            <mxPoint x="2318" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpmoM7yMUA3yPXfGOQI7-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FpmoM7yMUA3yPXfGOQI7-2" target="FpmoM7yMUA3yPXfGOQI7-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1790" y="1690" as="sourcePoint" />
-            <mxPoint x="1840" y="1640" as="targetPoint" />
+            <mxPoint x="1968" y="1830" as="sourcePoint" />
+            <mxPoint x="2018" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
