@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T02:38:04.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Rzs4DmU0xM-9PFhjSunn" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T02:42:45.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zSjZ9kaW2TTJ-HO77jxh" version="22.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="79Bn47hT7U_q4xXXucv6-1" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-2" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-3" value="物料组件库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-4" value="物料组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-5" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-6" value="页面模版库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-7" value="模版页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-8" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-9" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79Bn47hT7U_q4xXXucv6-10" value="系统用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="520" width="95" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
