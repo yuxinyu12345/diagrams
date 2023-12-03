@@ -1,41 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T02:34:10.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ATWYu3H4RiizQ31jUNE-" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T02:41:05.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hee1hBfP5nG1p-h7yie_" version="22.1.5" type="github">
   <diagram name="第 1 页" id="2sIuTsLz6IWGNwXdqIaf">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bfsj83jqKhjmx6UI0y_F-1" value="活动页面可视化平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-3" value="node_modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-4" value="public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-5" value="src" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="285" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-6" value="eslintrc.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="310" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-7" value="babel.config.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="530" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-8" value="package.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="430" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-9" value="README.md" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="730" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-10" value="vue.config.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="780" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-12" value="prettier.config.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bfsj83jqKhjmx6UI0y_F-13" value="commitlint.config.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="314" y="480" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-14" value=".env.development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-15" value=".env.production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-16" value="api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="205" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-17" value="views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="555" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-18" value="utils" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="505" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-19" value="styles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="455" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-20" value="store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="405" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-21" value="router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="355" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-22" value="components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="305" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-23" value="assets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="255" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-25" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="605" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfsj83jqKhjmx6UI0y_F-26" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="655" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
