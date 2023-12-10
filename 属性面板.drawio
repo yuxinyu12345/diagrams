@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T07:30:33.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9QoJMl6uaGoG8PvhaitD" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T07:33:28.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Hu6kzbtJhpm6rHNuVbZY" version="22.1.7" type="github">
   <diagram name="第 1 页" id="JLbR2YRAqnPtZDiZQ_Qw">
     <mxGraphModel dx="1272" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,21 @@
         </mxCell>
         <mxCell id="pn96O0ccZNOmGsaGeBjg-54" value="一个物料数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pn96O0ccZNOmGsaGeBjg-56" value="注册物料组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pn96O0ccZNOmGsaGeBjg-57" value="活动页面，&lt;br&gt;一个物料组件数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pn96O0ccZNOmGsaGeBjg-58" value="Props：Schema" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pn96O0ccZNOmGsaGeBjg-59" value="Props：Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pn96O0ccZNOmGsaGeBjg-62" value="渲染" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
