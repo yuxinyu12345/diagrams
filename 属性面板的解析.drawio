@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:25:44.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a8bQfICqV-zck28DJLMU" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:47:20.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lRx4B1yPzx4CCpYKGvw4" version="22.1.11" type="github">
   <diagram name="第 1 页" id="FVmoqseECFdzQfIaz5dA">
-    <mxGraphModel dx="1908" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,42 +79,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="750" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="750" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-8" target="yKcdB8pcACayNJ6NkOnH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-8" value="ControlConfig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="880" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="1140" as="targetPoint" />
+            <mxPoint x="240" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-10" value="ConfigCtn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1010" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="1010" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-14" target="yKcdB8pcACayNJ6NkOnH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-14" value="custom-schema-template" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1140" width="100" height="50" as="geometry" />
+        <mxCell id="yKcdB8pcACayNJ6NkOnH-14" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;C&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;ustom&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;S&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;chema&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;emplate&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-16" target="yKcdB8pcACayNJ6NkOnH-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-16" value="基础类型组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1300" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="1350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-19" target="yKcdB8pcACayNJ6NkOnH-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-19" value="属性面板展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1450" width="100" height="50" as="geometry" />
+          <mxGeometry x="404" y="1530" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1592" width="100" height="50" as="geometry" />
+          <mxGeometry x="404" y="1672" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-44" value="schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1930" width="120" height="60" as="geometry" />
@@ -125,14 +125,14 @@
         <mxCell id="yKcdB8pcACayNJ6NkOnH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-52" value="拖拽物料组件&lt;br&gt;传递组件信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="813" width="100" height="40" as="geometry" />
+        <mxCell id="yKcdB8pcACayNJ6NkOnH-52" value="拖拽物料组件&lt;br&gt;或点击物料组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="813" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-53" value="展示组件基本信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="955" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="955" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-54" value="传递组件的 fields数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="274" y="1078" width="140" height="30" as="geometry" />
+          <mxGeometry x="244" y="1078" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-55" value="传递 type信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="1220" width="100" height="30" as="geometry" />
@@ -144,10 +144,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-56" value="是否child" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1285" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="1335" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1390" width="40" height="30" as="geometry" />
+          <mxGeometry x="414" y="1450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-63" value="传递 child" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="1198" width="80" height="30" as="geometry" />
