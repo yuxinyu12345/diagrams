@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:23:06.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J3YBoehIqeYZtRiRkLIV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:23:28.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="03AYgB9AcJg0qjmw85GD" version="22.1.11" type="github">
   <diagram name="第 1 页" id="FVmoqseECFdzQfIaz5dA">
-    <mxGraphModel dx="1468" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,83 +114,13 @@
           <mxGeometry x="220" y="1560" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1720" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="1377.0588235294117" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-27" value="ControlConfig" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="670" y="625" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945.0588235294117" y="1411.764705882353" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-28" value="ConfigCtn" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="890" y="625" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1165.0588235294117" y="1761.764705882353" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-29" value="custom-schema-template" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="625" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1385" y="1382.3529411764705" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-30" value="基础类型组件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="625" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKcdB8pcACayNJ6NkOnH-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="1210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-32" value="界面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="625" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-34" value="拖拽物料组件" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="540" y="770" as="sourcePoint" />
-            <mxPoint x="710" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-36" value="物料组件的信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="740" y="800" as="sourcePoint" />
-            <mxPoint x="910" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-38" value="物料组件的fields&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="970" y="840" as="sourcePoint" />
-            <mxPoint x="1140" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-41" value="基础类型 type" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1190" y="890" as="sourcePoint" />
-            <mxPoint x="1360" y="890" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="220" y="1690" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-44" value="schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-45" value="动态组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-46" value="物料组件的fields&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="990" y="860" as="sourcePoint" />
-            <mxPoint x="1160" y="860" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="2070" width="120" height="60" as="geometry" />
@@ -224,9 +154,6 @@
         </mxCell>
         <mxCell id="yKcdB8pcACayNJ6NkOnH-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="1508" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yKcdB8pcACayNJ6NkOnH-61" value="传递child" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1288" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
