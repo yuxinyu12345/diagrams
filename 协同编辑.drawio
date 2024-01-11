@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T11:29:36.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Gkuz9Y5_AToq3VXi3RaC" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T12:03:34.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yxKiZMN4ucIcTb6Yzs_V" version="22.1.18" type="github">
   <diagram name="第 1 页" id="3i5quWv0bU5IGpumJyaY">
     <mxGraphModel dx="2901" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1214,7 +1214,7 @@
             <mxPoint x="3470" y="889.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKTNqUu9ANOh3F-6o0ka-8" value="序列表(seq)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKTNqUu9ANOh3F-6o0ka-8" value="序列表(sequence&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3300" y="627" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DKTNqUu9ANOh3F-6o0ka-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
