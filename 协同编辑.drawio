@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T17:18:34.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-tCE4VeGNfVIz6FLevom" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T17:18:47.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="50krb194T234AmR4CrCu" version="22.1.18" type="github">
   <diagram name="第 1 页" id="3i5quWv0bU5IGpumJyaY">
     <mxGraphModel dx="1657" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1253,7 +1253,7 @@
         <mxCell id="ZO7iE4deVD0ycg9GOUUT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZO7iE4deVD0ycg9GOUUT-8" target="ZO7iE4deVD0ycg9GOUUT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZO7iE4deVD0ycg9GOUUT-8" value="通过Vue的watch监听到物料组件的JSON数据产生了变化，然后拿到newJSON和oldJSON对比来获取不同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZO7iE4deVD0ycg9GOUUT-8" value="通过Vue的watch监听到JSON数据产生了变化，然后拿到newJSON和oldJSON对比来获取不同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2075" y="1390" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZO7iE4deVD0ycg9GOUUT-10" value="把newJSON和oldJSON传入到y-vue-json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
