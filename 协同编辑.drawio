@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T17:09:25.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="00ZOcoFxycDjhKVpBCpl" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T17:11:46.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Thr_VpxmagfRIjnbkdmx" version="22.1.18" type="github">
   <diagram name="第 1 页" id="3i5quWv0bU5IGpumJyaY">
-    <mxGraphModel dx="2295" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1240,6 +1240,9 @@
         </mxCell>
         <mxCell id="DKTNqUu9ANOh3F-6o0ka-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3507" y="1080" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO7iE4deVD0ycg9GOUUT-7" value="根据物料组件的属性生成对应Y.Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
