@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T12:54:39.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nKa-PFXNpTfLK51manIj" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T12:56:42.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NOa0SBrqo6Y-W1_eRYz1" version="22.1.20" type="github">
   <diagram name="第 1 页" id="nf59W99AGzAC8T2MHkCi">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,17 @@
         <mxCell id="TrbRHjGAlIL61ZrVVt9T-4" value="属性面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="240" width="150" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="TrbRHjGAlIL61ZrVVt9T-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="260" width="140" height="220" as="geometry" />
+        <mxCell id="TrbRHjGAlIL61ZrVVt9T-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="130" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrbRHjGAlIL61ZrVVt9T-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.523;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TrbRHjGAlIL61ZrVVt9T-6" target="TrbRHjGAlIL61ZrVVt9T-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrbRHjGAlIL61ZrVVt9T-9" value="postMessage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="538" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
