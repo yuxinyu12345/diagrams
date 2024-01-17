@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T11:28:30.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fq-pSDPyb4kXakF-UeWf" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T11:31:23.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y9GXxQXRE7O_DhRy6kp0" version="22.1.18" type="github">
   <diagram name="第 1 页" id="JLbR2YRAqnPtZDiZQ_Qw">
     <mxGraphModel dx="1122" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -567,6 +567,18 @@
         </mxCell>
         <mxCell id="KlVJTEdYt64hIfoowo6O-42" value="tail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2495" y="1190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlVJTEdYt64hIfoowo6O-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1310" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KlVJTEdYt64hIfoowo6O-46" value="新缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlVJTEdYt64hIfoowo6O-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1310" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KlVJTEdYt64hIfoowo6O-48" value="老缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="1340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
