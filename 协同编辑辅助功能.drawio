@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T09:01:36.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b6qzaVFeeEz4Mo6Yxsyv" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T09:06:46.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JfmC9jIKKjZTgDlVeqkx" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,6 +370,39 @@
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-222" value="初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1488" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-223" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1246" y="1540" as="sourcePoint" />
+            <mxPoint x="1246" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1296" y="1540" />
+              <mxPoint x="1296" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-224" value="监听点击事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="1518" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-226" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ue_Dn-jHHbVHF6XMrMOS-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1246" y="1594" as="sourcePoint" />
+            <mxPoint x="1466" y="1594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-229" value="commit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ue_Dn-jHHbVHF6XMrMOS-226">
+          <mxGeometry x="0.1688" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-232" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2040" y="1648" as="sourcePoint" />
+            <mxPoint x="1845" y="1648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-233" value="setLocalState(user,component)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1618" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
