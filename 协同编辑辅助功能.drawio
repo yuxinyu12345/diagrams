@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:32:19.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SnRJAlRuXVwQ968pjpAw" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:35:44.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VLPlcMAo5Xr9O5QEmD1z" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           <mxGeometry x="-220" y="1290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1380" width="10" height="110" as="geometry" />
+          <mxGeometry x="-170" y="1380" width="10" height="530" as="geometry" />
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-360" y="1390" width="10" height="110" as="geometry" />
@@ -112,6 +112,30 @@
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-66" value="查询Page 表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="1448" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-67" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-60" target="ue_Dn-jHHbVHF6XMrMOS-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1640" as="sourcePoint" />
+            <mxPoint x="-60" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-68" value="返回权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ue_Dn-jHHbVHF6XMrMOS-67">
+          <mxGeometry x="0.0962" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ue_Dn-jHHbVHF6XMrMOS-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="1540" as="sourcePoint" />
+            <mxPoint x="-110" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="1540" />
+              <mxPoint x="-110" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-71" value="返回权限判断是否可编辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1508" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
