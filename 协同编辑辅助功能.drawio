@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:26:03.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dupqqiMetHr2dzYF_JAg" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:32:19.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SnRJAlRuXVwQ968pjpAw" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,8 +74,44 @@
             <mxPoint x="440" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-59" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot; class=&quot;MsoNormal&quot;&gt;activePageService&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="1285" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="495" y="1390" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="1420" as="sourcePoint" />
+            <mxPoint x="495" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-64" value="根据token 查看权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ue_Dn-jHHbVHF6XMrMOS-62">
+          <mxGeometry x="-0.1237" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-63" value="访问活动页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="1440" as="sourcePoint" />
+            <mxPoint x="505" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="1440" />
+              <mxPoint x="540" y="1460" />
+              <mxPoint x="540" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-66" value="查询Page 表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1448" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
