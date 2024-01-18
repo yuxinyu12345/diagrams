@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:23:10.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SWc0DkFAgFg9GgXuTqxV" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:26:03.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dupqqiMetHr2dzYF_JAg" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,12 +11,6 @@
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YjsService&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1290" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="2110" as="targetPoint" />
-            <mxPoint x="930" y="1860" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-2" target="ue_Dn-jHHbVHF6XMrMOS-12">
           <mxGeometry relative="1" as="geometry">
@@ -79,6 +73,9 @@
             <mxPoint x="390" y="1640" as="sourcePoint" />
             <mxPoint x="440" y="1590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-59" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot; class=&quot;MsoNormal&quot;&gt;activePageService&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1285" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
