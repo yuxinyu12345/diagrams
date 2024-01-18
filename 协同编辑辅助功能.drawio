@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:20:38.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2-vU36rM2DeKI9tCQH_i" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:21:25.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t3GEnJeBXfx4iC00bfDI" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="25" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-2" value="YjsService" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YjsService&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
@@ -36,8 +36,8 @@
             <mxPoint x="255" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-14" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;WebsocketProvider&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1290" width="130" height="50" as="geometry" />
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-14" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;WebsocketProvider&lt;/font&gt;&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-14" target="ue_Dn-jHHbVHF6XMrMOS-25">
           <mxGeometry relative="1" as="geometry">
