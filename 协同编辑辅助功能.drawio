@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:10:36.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tS_Gu0Y2KFiv3BOxTqzu" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:12:55.481Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DpYUNTbfUhxq25e9dCnE" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
             <mxPoint x="255" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-14" value="DiffPatch" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1290" width="110" height="50" as="geometry" />
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-14" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;WebsocketProvider&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1290" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-4" target="ue_Dn-jHHbVHF6XMrMOS-17">
           <mxGeometry relative="1" as="geometry">
