@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:21:25.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t3GEnJeBXfx4iC00bfDI" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:23:10.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SWc0DkFAgFg9GgXuTqxV" version="22.1.20" type="github">
   <diagram name="第 1 页" id="gpd5mwzb-fo4sPHvd6Lr">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,6 +52,11 @@
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="250" y="1370" width="10" height="530" as="geometry" />
         </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-355" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-46" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1280" width="30" height="60" as="geometry" />
         </mxCell>
@@ -68,6 +73,12 @@
         </mxCell>
         <mxCell id="ue_Dn-jHHbVHF6XMrMOS-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-360" y="1390" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ue_Dn-jHHbVHF6XMrMOS-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="ue_Dn-jHHbVHF6XMrMOS-54" target="ue_Dn-jHHbVHF6XMrMOS-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1640" as="sourcePoint" />
+            <mxPoint x="440" y="1590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
