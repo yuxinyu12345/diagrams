@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T11:10:05.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XEmRI_BRs5C17R7vzwuw" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T11:20:06.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="x7Wbfvcwtb20SKHbSLGl" version="22.1.21" type="github">
   <diagram name="第 1 页" id="lP-zoGvPF34fVr40256u">
-    <mxGraphModel dx="909" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,70 @@
           <mxGeometry x="580" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g51ZoofxoQrhvGVgscI5-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="65" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g51ZoofxoQrhvGVgscI5-12" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.003;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349.98" y="309.99999999999994" as="sourcePoint" />
             <mxPoint x="690" y="310.96" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-18" target="g51ZoofxoQrhvGVgscI5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-18" value="登录界面输入用户账号密码点击登录按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-19" target="g51ZoofxoQrhvGVgscI5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-19" target="g51ZoofxoQrhvGVgscI5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-19" value="校验用户格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-22" value="提示错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-24" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-25" target="g51ZoofxoQrhvGVgscI5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-25" value="前端crypto封装数据并请求登录接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="585" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-27" target="g51ZoofxoQrhvGVgscI5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-27" value="后端crypto解析数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-29" target="g51ZoofxoQrhvGVgscI5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-29" target="g51ZoofxoQrhvGVgscI5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-29" value="后端校验用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-31" value="后端校验用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-33" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g51ZoofxoQrhvGVgscI5-34" target="g51ZoofxoQrhvGVgscI5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-34" value="后端jsonwebtoken生成token并返回前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g51ZoofxoQrhvGVgscI5-36" value="前端存储token，跳转平台内部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="950" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
