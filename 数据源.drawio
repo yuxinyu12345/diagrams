@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T07:07:49.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="U7PTlsuQfUK3a_aP8Pya" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T07:09:31.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="SPs1crVFT4VJD2sIoMuy" version="23.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1405" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,13 +431,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IzppPhrADwPCA751CY5U-39" value="TemplateSourcesDb" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1797" y="-830" width="270" height="148" as="geometry" />
+          <mxGeometry x="1797" y="-830" width="270" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="IzppPhrADwPCA751CY5U-40" value="+ name: String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ createTime:&amp;nbsp;Timestamp&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+&amp;nbsp;updateTime:&amp;nbsp;Timestamp&lt;br&gt;+&amp;nbsp;classifyId:&amp;nbsp;&lt;font face=&quot;宋体&quot;&gt;O&lt;/font&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; font-size: 12pt;&quot;&gt;bjectId&lt;/span&gt;&lt;br&gt;+&amp;nbsp;description: String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ isShelves:&amp;nbsp;Number&lt;div&gt;+ path: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IzppPhrADwPCA751CY5U-39">
-          <mxGeometry y="26" width="270" height="114" as="geometry" />
+        <mxCell id="IzppPhrADwPCA751CY5U-40" value="+&amp;nbsp;templateName: String&lt;br&gt;+&amp;nbsp;description: String&lt;br&gt;+ useCount:&amp;nbsp;Number&lt;br&gt;+ viewCount: Number&lt;br&gt;+ createTime:&amp;nbsp;Timestamp&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+&amp;nbsp;updateTime:&amp;nbsp;Timestamp&lt;br&gt;+ pageInfo:&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;&lt;/font&gt;Object" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="IzppPhrADwPCA751CY5U-39">
+          <mxGeometry y="26" width="270" height="104" as="geometry" />
         </mxCell>
         <mxCell id="IzppPhrADwPCA751CY5U-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="IzppPhrADwPCA751CY5U-39">
-          <mxGeometry y="140" width="270" height="8" as="geometry" />
+          <mxGeometry y="130" width="270" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
