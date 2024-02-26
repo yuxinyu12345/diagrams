@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T12:41:02.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="DgvFG7T7XLVo-TP1Td_J" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T12:41:57.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="4YN3dKqrLzREKlAbQFXc" version="23.1.6" type="github">
   <diagram name="第 1 页" id="yezRByxBeG7q0EoHFZJD">
     <mxGraphModel dx="1554" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -767,13 +767,10 @@
           <mxGeometry x="1384.5" y="220" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eg4o8szcJnxe1MxoudN2-148" value="属性设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="270" width="23" height="100" as="geometry" />
+          <mxGeometry x="1091" y="-476" width="23" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eg4o8szcJnxe1MxoudN2-149" value="导出数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1909" y="270" width="23" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="eg4o8szcJnxe1MxoudN2-150" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1872.5" y="220" width="50" height="50" as="geometry" />
+          <mxGeometry x="1140" y="-476" width="23" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eg4o8szcJnxe1MxoudN2-151" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eg4o8szcJnxe1MxoudN2-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -984,6 +981,12 @@
         </mxCell>
         <mxCell id="eg4o8szcJnxe1MxoudN2-203" value="属性基础组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1051" y="-684" width="23" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eg4o8szcJnxe1MxoudN2-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eg4o8szcJnxe1MxoudN2-204" target="eg4o8szcJnxe1MxoudN2-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eg4o8szcJnxe1MxoudN2-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eg4o8szcJnxe1MxoudN2-204" target="eg4o8szcJnxe1MxoudN2-149">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eg4o8szcJnxe1MxoudN2-204" value="生成器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115.5" y="-684" width="23" height="100" as="geometry" />
