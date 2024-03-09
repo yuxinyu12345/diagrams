@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T12:55:29.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lCtowEn2CZ99_p_62HPM" version="24.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T12:58:42.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qyxTNcAdiM070FSEvzGO" version="24.0.3" type="github">
   <diagram name="第 1 页" id="uGb3mlXIUazgqTFXJLFu">
     <mxGraphModel dx="1590" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
         <mxCell id="ZJbD1y_0_eG-2DNFwoJK-2" value="开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1680" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-4" value="JSON&amp;nbsp; Schema 生成器&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZJbD1y_0_eG-2DNFwoJK-4" value="Schema 生成器&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1680" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJbD1y_0_eG-2DNFwoJK-5" value="Object 对象" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
