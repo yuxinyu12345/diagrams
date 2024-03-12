@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T07:32:27.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="Z22hPTbl81MilLjp1jIU" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T07:33:48.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0bWN2w93T-1WsHaaaumk" version="24.0.5" type="github">
   <diagram name="第 1 页" id="O9YYLC9fDMk_xcv-DRtO">
-    <mxGraphModel>
+    <mxGraphModel dx="1247" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-2" value="新增用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="155" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-3" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="245" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-4" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="345" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic6ixEbmWL8hoiFhvFg5-1" target="ic6ixEbmWL8hoiFhvFg5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="395" as="sourcePoint" />
+            <mxPoint x="1300" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic6ixEbmWL8hoiFhvFg5-1" target="ic6ixEbmWL8hoiFhvFg5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="395" as="sourcePoint" />
+            <mxPoint x="1170" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ic6ixEbmWL8hoiFhvFg5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="350" as="sourcePoint" />
+            <mxPoint x="1300" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-10" value="用户登录解锁" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.06;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ic6ixEbmWL8hoiFhvFg5-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="360" as="sourcePoint" />
+            <mxPoint x="1173" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-12" value="用户密码重置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ic6ixEbmWL8hoiFhvFg5-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ic6ixEbmWL8hoiFhvFg5-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="370" as="sourcePoint" />
+            <mxPoint x="1179" y="469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
