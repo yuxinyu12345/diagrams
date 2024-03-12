@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T12:44:16.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3mzqdNLP_3VygEs4WDRn" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T12:44:31.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zRxyYkHVr59ygDo7Kq4r" version="24.0.5" type="github">
   <diagram name="第 1 页" id="AzbfN3IA49LtA-kwNX3O">
-    <mxGraphModel dx="1193" dy="3096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-16" value="后台管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="941.5" y="-1890" width="125" height="40" as="geometry" />
+          <mxGeometry x="864" y="-1890" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="hP2oWszfWkWVEPcqdL0g-18" target="hP2oWszfWkWVEPcqdL0g-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-18" value="平台公共模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-1890" width="125" height="40" as="geometry" />
+          <mxGeometry x="235" y="-1890" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-19" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="544" y="-1770" width="35" height="120" as="geometry" />
@@ -71,31 +71,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-22" value="活动页面设计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-1760" width="35" height="120" as="geometry" />
+          <mxGeometry x="365" y="-1760" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-24" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="917.5" y="-1770" width="33" height="120" as="geometry" />
+          <mxGeometry x="840" y="-1770" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-25" value="物料组件管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="986.5" y="-1770" width="33" height="120" as="geometry" />
+          <mxGeometry x="909" y="-1770" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-26" value="模版管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1051" y="-1770" width="33" height="120" as="geometry" />
+          <mxGeometry x="973.5" y="-1770" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-27" value="Schema&lt;div&gt;生成器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=rtl;" parent="1" vertex="1">
-          <mxGeometry x="246.25" y="-1760" width="52.5" height="120" as="geometry" />
+          <mxGeometry x="271.25" y="-1760" width="52.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZtFctYNQM2N-w3IxaOla-1" value="属性面板" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1590" width="35" height="120" as="geometry" />
+          <mxGeometry x="305" y="-1590" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZtFctYNQM2N-w3IxaOla-2" value="可视化预览" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="340.5" y="-1590" width="35" height="120" as="geometry" />
+          <mxGeometry x="365.5" y="-1590" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZtFctYNQM2N-w3IxaOla-3" value="协同设计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-1590" width="35" height="120" as="geometry" />
+          <mxGeometry x="425" y="-1590" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZtFctYNQM2N-w3IxaOla-12" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-1760" width="35" height="120" as="geometry" />
+          <mxGeometry x="200" y="-1760" width="35" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
