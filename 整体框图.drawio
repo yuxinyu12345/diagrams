@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T12:44:31.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zRxyYkHVr59ygDo7Kq4r" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T12:44:45.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="obiOFWHiHo6MnlsZ6phI" version="24.0.5" type="github">
   <diagram name="第 1 页" id="AzbfN3IA49LtA-kwNX3O">
     <mxGraphModel dx="1363" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="ZtFctYNQM2N-w3IxaOla-3" value="协同设计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="425" y="-1590" width="35" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZtFctYNQM2N-w3IxaOla-12" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="ZtFctYNQM2N-w3IxaOla-12" value="登录" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="200" y="-1760" width="35" height="120" as="geometry" />
         </mxCell>
       </root>
