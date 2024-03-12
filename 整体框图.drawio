@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:06:06.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6t0whAy6vkhpg3jqqq4v" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:53:19.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="62OPmmrXEkjI-S5pkvua" version="24.0.5" type="github">
   <diagram name="第 1 页" id="AzbfN3IA49LtA-kwNX3O">
     <mxGraphModel dx="2074" dy="3484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="hP2oWszfWkWVEPcqdL0g-27" value="Schema&lt;div&gt;生成器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=rtl;" parent="1" vertex="1">
           <mxGeometry x="1289.75" y="-1780" width="52.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtFctYNQM2N-w3IxaOla-1" value="属性面板" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="688" y="-1600" width="35" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtFctYNQM2N-w3IxaOla-2" value="可视化预览" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="748.5" y="-1600" width="35" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtFctYNQM2N-w3IxaOla-3" value="协同设计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="808" y="-1600" width="35" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
