@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:28:46.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YW5U-7mjL4sE7HEy4tVe" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:29:01.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Rl9CH--xpQWSmt1Y6aBO" version="24.0.5" type="github">
   <diagram name="第 1 页" id="GacjE3XN_x0uH7swu14T">
     <mxGraphModel dx="2074" dy="3488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,9 +11,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-5" target="slr-krBLTCAGhXhoKUXU-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="-1900" />
+              <mxPoint x="1017" y="-1900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-5" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-5" value="管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="-2010" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-27">
