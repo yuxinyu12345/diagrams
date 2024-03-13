@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:21:26.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9xG3yakdQz_H_QRzICHC" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:22:50.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6nPu_kH6H4mRYMHxNDO7" version="24.0.5" type="github">
   <diagram name="第 1 页" id="GacjE3XN_x0uH7swu14T">
     <mxGraphModel dx="2074" dy="3488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,19 +79,19 @@
         <mxCell id="slr-krBLTCAGhXhoKUXU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-35" target="slr-krBLTCAGhXhoKUXU-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-35" value="新增活动页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-35" value="新增物料组件分类" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="528" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-36" value="编辑活动页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-36" value="编辑物料组件分类" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="593" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-37" value="查看活动页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-37" value="删除物料组件分类" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="648" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-38" value="活动页面设计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-38" value="上架物料组件分类" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="713" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-39" value="删除活动页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+        <mxCell id="slr-krBLTCAGhXhoKUXU-39" value="下架物料组件分类" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="773" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-40" value="配置协同设计人员" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
