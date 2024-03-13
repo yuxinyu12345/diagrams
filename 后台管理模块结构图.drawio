@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:17:48.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bOozIk5lTInKeK5SR3Ei" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:20:07.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="N7W1Ko7nbbVSxwyPdg4B" version="24.0.5" type="github">
   <diagram name="第 1 页" id="GacjE3XN_x0uH7swu14T">
     <mxGraphModel dx="2074" dy="3488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,19 +22,17 @@
         <mxCell id="slr-krBLTCAGhXhoKUXU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="-1685" />
-              <mxPoint x="387" y="-1685" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-10" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="335" y="-1830" width="35" height="120" as="geometry" />
+        <mxCell id="slr-krBLTCAGhXhoKUXU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slr-krBLTCAGhXhoKUXU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-10" target="slr-krBLTCAGhXhoKUXU-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slr-krBLTCAGhXhoKUXU-10" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-1830" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-16" target="slr-krBLTCAGhXhoKUXU-35">
           <mxGeometry relative="1" as="geometry" />
@@ -63,34 +61,17 @@
         <mxCell id="slr-krBLTCAGhXhoKUXU-19" value="模版库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="943" y="-1830" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-27" target="slr-krBLTCAGhXhoKUXU-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="-1520" />
-              <mxPoint x="238" y="-1520" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="slr-krBLTCAGhXhoKUXU-27" value="新增用户" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-27" target="slr-krBLTCAGhXhoKUXU-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="slr-krBLTCAGhXhoKUXU-28" value="编辑用户信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-27" value="新增数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="-1660" width="33" height="120" as="geometry" />
+        <mxCell id="slr-krBLTCAGhXhoKUXU-29" value="删除用户" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-28" value="编辑数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="313" y="-1660" width="33" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-29" value="查看数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-1660" width="33" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-30" value="删除数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="423" y="-1660" width="33" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-31" value="静态数据源编写" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-1500" width="33" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="slr-krBLTCAGhXhoKUXU-32" value="动态数据源调试" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="286" y="-1500" width="33" height="120" as="geometry" />
+        <mxCell id="slr-krBLTCAGhXhoKUXU-30" value="用户登录解锁" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="slr-krBLTCAGhXhoKUXU-35" target="slr-krBLTCAGhXhoKUXU-40">
           <mxGeometry relative="1" as="geometry" />
@@ -124,6 +105,9 @@
         </mxCell>
         <mxCell id="slr-krBLTCAGhXhoKUXU-43" value="模版应用" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="986" y="-1660" width="33" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="slr-krBLTCAGhXhoKUXU-44" value="用户密码重置" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="-1660" width="33" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
