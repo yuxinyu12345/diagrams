@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:12:56.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1XsqO4TFjpCo4CDxH_Sv" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:13:06.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7oAqrBR54JSwNVLFOX5u" version="24.0.5" type="github">
   <diagram name="第 1 页" id="gx0CAf-HGfpb9z3jjFb8">
     <mxGraphModel dx="2074" dy="3488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="n2puXXDJKAa573vDvbuu-25" value="动态数据源调试" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="-1490" width="33" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n2puXXDJKAa573vDvbuu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2puXXDJKAa573vDvbuu-40" target="n2puXXDJKAa573vDvbuu-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2puXXDJKAa573vDvbuu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2puXXDJKAa573vDvbuu-40" target="n2puXXDJKAa573vDvbuu-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n2puXXDJKAa573vDvbuu-40" value="新增活动页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="555" y="-1650" width="33" height="120" as="geometry" />
