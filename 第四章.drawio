@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T12:28:50.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iCVIo4aq8qoSHe5Msnia" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T12:29:32.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cEI1M_adKkj_zoGSCCnx" version="24.0.5" type="github">
   <diagram name="第 1 页" id="UROkZfkym0-Oqt58SDqi">
     <mxGraphModel dx="954" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,13 +109,13 @@
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-48" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="310" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-51" value="协同编辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-51" value="物料组件管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="355" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-52" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="310" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-53" value="模版页面维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-53" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="355" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-54" value="...." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -125,9 +125,9 @@
           <mxGeometry x="577" y="355" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="310" width="50" height="80" as="geometry" />
+          <mxGeometry x="770" y="300" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-57" value="系统监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-57" value="活动页面设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="332.5" width="10" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vn1lkJvJBzCe5DxKZ6Ij-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
