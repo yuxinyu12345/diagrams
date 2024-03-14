@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T03:35:21.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VJzjkYdLZqRkfM-ONIWQ" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T03:36:20.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="G_ULy3j4Frmlf1YUm1ri" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
         <mxCell id="CDrrQhluDF5SGl6vh9CH-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1030" y="640" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="CDrrQhluDF5SGl6vh9CH-39" value="新增模版" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-39" value="新增模版并上架" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="230" y="739" as="sourcePoint" />
             <mxPoint x="1030" y="739" as="targetPoint" />
@@ -284,7 +284,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDrrQhluDF5SGl6vh9CH-44" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="CDrrQhluDF5SGl6vh9CH-15">
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-44" value="返回新增成功，上架成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="CDrrQhluDF5SGl6vh9CH-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="840.5" as="sourcePoint" />
             <mxPoint x="230" y="840" as="targetPoint" />
