@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T04:09:05.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PTflEb6VmcWyTppKX3B4" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T04:11:23.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="F1Yp076nzjpc-8-zH2TY" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="1500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="167" y="440" width="660" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="ha9m3MglX8LXZOVHsXi--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="ha9m3MglX8LXZOVHsXi--2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="1582" as="targetPoint" />
@@ -259,8 +265,8 @@
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-39" value="新增模版并上架" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="230" y="771" as="sourcePoint" />
-            <mxPoint x="1030" y="771" as="targetPoint" />
+            <mxPoint x="230" y="780" as="sourcePoint" />
+            <mxPoint x="1030" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-40" value="获取物料信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
@@ -279,8 +285,8 @@
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-42" value="设计活动页面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1040" y="781" as="sourcePoint" />
-            <mxPoint x="1590" y="781" as="targetPoint" />
+            <mxPoint x="1040" y="790" as="sourcePoint" />
+            <mxPoint x="1590" y="790" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -329,6 +335,9 @@
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-51" value="页面设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1620" y="852" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-54" value="物料区域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
