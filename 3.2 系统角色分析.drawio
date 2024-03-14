@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T13:53:07.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zt4TI3_a7iQhAaFHObgG" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:43:21.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IpOr3zAV_7cgQnyPvXA0" version="24.0.5" type="github">
   <diagram name="第 1 页" id="uGb3mlXIUazgqTFXJLFu">
-    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,11 +238,11 @@
             <mxPoint x="1201" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymelzY1RwOhpvOn5nYsV-70" value="物料组件选择" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="740" width="100" height="60" as="geometry" />
+        <mxCell id="ymelzY1RwOhpvOn5nYsV-70" value="物料组件展示" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-71" value="物料组件拖放" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="830" width="100" height="60" as="geometry" />
+          <mxGeometry x="1470" y="760" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-72" value="设计展示效果" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1020" width="100" height="60" as="geometry" />
@@ -259,12 +259,6 @@
         <mxCell id="ymelzY1RwOhpvOn5nYsV-76" value="物料组件数据设计" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="920" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ymelzY1RwOhpvOn5nYsV-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.05;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ymelzY1RwOhpvOn5nYsV-68" target="ymelzY1RwOhpvOn5nYsV-70" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1230" y="1010" as="sourcePoint" />
-            <mxPoint x="1280" y="960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.02;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ymelzY1RwOhpvOn5nYsV-68" target="ymelzY1RwOhpvOn5nYsV-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="1010" as="sourcePoint" />
@@ -272,12 +266,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymelzY1RwOhpvOn5nYsV-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ymelzY1RwOhpvOn5nYsV-68" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1230" y="1010" as="sourcePoint" />
-            <mxPoint x="1280" y="960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ymelzY1RwOhpvOn5nYsV-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.99;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.05;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ymelzY1RwOhpvOn5nYsV-68" target="ymelzY1RwOhpvOn5nYsV-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="1010" as="sourcePoint" />
             <mxPoint x="1280" y="960" as="targetPoint" />
@@ -920,8 +908,23 @@
             <mxPoint x="1500" y="1251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZZpdaij2TyxqZqQiNVDW-1" value="配置查看人员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZZpdaij2TyxqZqQiNVDW-1" value="配置查看人员" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1403" y="2148" width="137" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Azad9PwEcsq8sK_Ptixh-1" value="物料组件区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1283" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Azad9PwEcsq8sK_Ptixh-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azad9PwEcsq8sK_Ptixh-1" target="ymelzY1RwOhpvOn5nYsV-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1384" y="943" as="sourcePoint" />
+            <mxPoint x="1500" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Azad9PwEcsq8sK_Ptixh-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="ymelzY1RwOhpvOn5nYsV-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1378" y="829" as="sourcePoint" />
+            <mxPoint x="1480" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
