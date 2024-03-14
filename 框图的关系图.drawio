@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T10:47:36.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vs0-C2qz0uktCKpb7PCC" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T10:48:41.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="27j3u_h4re9EGD7BPSa6" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
     <mxGraphModel dx="1468" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,12 +916,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-192" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="3950" y="1020" width="10" height="130" as="geometry" />
+          <mxGeometry x="3950" y="1020" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="CDrrQhluDF5SGl6vh9CH-193" value="模版页面应用" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CDrrQhluDF5SGl6vh9CH-192">
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-193" value="模版页面应用" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0018" width="80" relative="1" as="geometry">
             <mxPoint x="3520" y="1084.23" as="sourcePoint" />
-            <mxPoint x="3600" y="1084.23" as="targetPoint" />
+            <mxPoint x="3950" y="1084" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-194" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3790" y="1120" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-195" value="新建活动页面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="CDrrQhluDF5SGl6vh9CH-192">
+          <mxGeometry x="0.0051" width="80" relative="1" as="geometry">
+            <mxPoint x="3880" y="1130" as="sourcePoint" />
+            <mxPoint x="3800" y="1130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-197" value="新建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <mxPoint x="3800" y="1150" as="sourcePoint" />
+            <mxPoint x="3950" y="1150" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
