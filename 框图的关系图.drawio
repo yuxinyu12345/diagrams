@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T10:53:57.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8Qy12ZwBG2rL6pxSPAtp" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T10:55:14.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0D0evyprG3_Tr7RnAocx" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
-    <mxGraphModel dx="2120" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,7 +520,7 @@
           <mxGeometry x="2000" y="535" width="10" height="335" as="geometry" />
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-100" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="2150" y="545" width="10" height="495" as="geometry" />
+          <mxGeometry x="2150" y="545" width="10" height="445" as="geometry" />
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-102" value="登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CDrrQhluDF5SGl6vh9CH-100">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -573,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-99" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1890" y="530" width="10" height="590" as="geometry" />
+          <mxGeometry x="1890" y="530" width="10" height="470" as="geometry" />
         </mxCell>
         <mxCell id="CDrrQhluDF5SGl6vh9CH-110" value="成为平台用户" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CDrrQhluDF5SGl6vh9CH-96">
           <mxGeometry width="80" relative="1" as="geometry">
