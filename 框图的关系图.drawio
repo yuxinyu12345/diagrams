@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:12:11.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="s2j1xvQLD0AV6UPkcpg6" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:16:45.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="p77A-bcn3683vtqsxzba" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -790,6 +790,29 @@
             <mxPoint x="3010" y="1100" as="sourcePoint" />
             <mxPoint x="2480" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CDrrQhluDF5SGl6vh9CH-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3515" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-160" value="系统用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-161" value="物料组件管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3900" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-163" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-164" value="活动页面管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-166" value="活动页面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4045" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrrQhluDF5SGl6vh9CH-168" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3510" y="490" width="10" height="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
