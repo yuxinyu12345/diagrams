@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T00:36:05.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WT7wgXBHb6_QYiFCtmhD" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T00:36:31.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JAVrm3o7YhoSYMx_8Be7" version="24.0.5" type="github">
   <diagram name="第 1 页" id="caf_1REVSn8JRjJEHCf_">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ha9m3MglX8LXZOVHsXi--2" value="系统用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ha9m3MglX8LXZOVHsXi--2" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="350" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ha9m3MglX8LXZOVHsXi--4" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ha9m3MglX8LXZOVHsXi--4" value="开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ha9m3MglX8LXZOVHsXi--5" value="登录/退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
