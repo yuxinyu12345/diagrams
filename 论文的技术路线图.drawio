@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T04:09:12.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dCs4_0mMQVXkRGj8yYv-" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T04:09:22.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Gswf98MKBT0ND3P9SaWs" version="24.0.7" type="github">
   <diagram name="第 1 页" id="xwgQjPLYuZ0b8j5jcag2">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="U0SrRVnIkzHvuZyMadGK-13" value="系统总体分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110.5" y="370" width="136" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JPCgUm3AOGwSfPcjVngr-6" value="Y-VUE-JSON实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-6" value="Y-VUE-JSON 实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="730" width="136" height="40" as="geometry" />
         </mxCell>
       </root>
