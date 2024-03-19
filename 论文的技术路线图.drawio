@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T04:10:41.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wc2-HJzTEN-dWqxcxN3G" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T04:11:37.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rK3M3RT6HTNWPc8l7E1I" version="24.0.7" type="github">
   <diagram name="第 1 页" id="xwgQjPLYuZ0b8j5jcag2">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,14 +127,26 @@
         <mxCell id="GHWC5vaI68Qx3i44Mjvv-14" value="活动页面搭建平台实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="352" y="640" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GHWC5vaI68Qx3i44Mjvv-15" target="GHWC5vaI68Qx3i44Mjvv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GHWC5vaI68Qx3i44Mjvv-15" value="公共模块实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="364" y="730" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GHWC5vaI68Qx3i44Mjvv-16" target="GHWC5vaI68Qx3i44Mjvv-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHWC5vaI68Qx3i44Mjvv-16" value="用户模块实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="730" width="136" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GHWC5vaI68Qx3i44Mjvv-17" target="GHWC5vaI68Qx3i44Mjvv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GHWC5vaI68Qx3i44Mjvv-17" value="后台管理模块实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="694" y="730" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GHWC5vaI68Qx3i44Mjvv-18" target="GHWC5vaI68Qx3i44Mjvv-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHWC5vaI68Qx3i44Mjvv-18" value="Keep-alive 改进实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="196" y="730" width="156" height="40" as="geometry" />
@@ -158,6 +170,9 @@
         </mxCell>
         <mxCell id="U0SrRVnIkzHvuZyMadGK-13" value="系统总体分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="110.5" y="370" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPCgUm3AOGwSfPcjVngr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JPCgUm3AOGwSfPcjVngr-6" target="GHWC5vaI68Qx3i44Mjvv-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JPCgUm3AOGwSfPcjVngr-6" value="Y-VUE-JSON 实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="730" width="136" height="40" as="geometry" />
