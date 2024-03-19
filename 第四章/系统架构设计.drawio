@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T08:41:56.326Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="McW6ZF6ZZpmnVUGmc60R" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T08:42:40.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LvrE5gAUttAt8z1VHP9S" version="24.0.7" type="github">
   <diagram name="第 1 页" id="aa-gGl5EJUcE4eOUJS7o">
     <mxGraphModel dx="2074" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,39 +24,6 @@
         </mxCell>
         <mxCell id="VzZtKRIuBbigzssa7Cag-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="34.5" width="300" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-8" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-160" width="680" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-8">
-          <mxGeometry width="680" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-10" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="VzZtKRIuBbigzssa7Cag-8">
-          <mxGeometry y="10" width="671" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-11" value="展示与互动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-12" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="80" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-13" value="拖拽页面设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="159" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-14" value="在线编辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="250" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-15" value="Json解析器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="340" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-16" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="430" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-17" value="SCSS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VzZtKRIuBbigzssa7Cag-18" value="UniApp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="VzZtKRIuBbigzssa7Cag-10">
-          <mxGeometry x="590" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzZtKRIuBbigzssa7Cag-19" value="接口调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="44.5" width="70" height="30" as="geometry" />
