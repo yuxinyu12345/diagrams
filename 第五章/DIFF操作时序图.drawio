@@ -1,9 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:20:18.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="BQ_kivgqaSKgBfHWwQ3F" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:21:29.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RMjb6O4K3JFVv3bfkzOU" version="24.0.7" type="github">
   <diagram name="第 1 页" id="igvU7wouOD6D5wJBhZ9f">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OLwPtn6KTZYXMYyV85He-2" value="DiffContext" style="html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="455" y="2180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-4" value="Processor" style="html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-5" value="Pipe" style="html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="885" y="2180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-7" value="Lic" style="html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="2180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-9" value="DiffPatch" style="html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2240" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-12" value="process()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry x="0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="270" y="2380" as="sourcePoint" />
+            <mxPoint x="720" y="2380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2250" width="10" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-15" value="process()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1" source="OLwPtn6KTZYXMYyV85He-14">
+          <mxGeometry x="-0.0118" width="80" relative="1" as="geometry">
+            <mxPoint x="840" y="2400" as="sourcePoint" />
+            <mxPoint x="930" y="2490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935" y="2470" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2260" width="10" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-20" value="实例化" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="2550" as="sourcePoint" />
+            <mxPoint x="720" y="2549.33" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-21" value="执行diff(),初始化DiffContext" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="270" y="2338" as="sourcePoint" />
+            <mxPoint x="505" y="2338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-22" value="pipe()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry x="0.0909" y="30" width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="2440" as="sourcePoint" />
+            <mxPoint x="730" y="2470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="2440" />
+              <mxPoint x="770" y="2470" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-23" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2400" width="830" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-24" value="[nextPipe]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="2510" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-27" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2500" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-28" value="初始化" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="720" y="2520" as="sourcePoint" />
+            <mxPoint x="515" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-29" value="实例化" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="2360" as="sourcePoint" />
+            <mxPoint x="275" y="2360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-30" value="[leftIsArray&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="845" y="2530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-31" value="get()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1" target="OLwPtn6KTZYXMYyV85He-26">
+          <mxGeometry x="-0.0028" width="80" relative="1" as="geometry">
+            <mxPoint x="945" y="2549.4700000000003" as="sourcePoint" />
+            <mxPoint x="1025" y="2549.4700000000003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-32" value="最长子序列" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry x="0.0014" relative="1" as="geometry">
+            <mxPoint x="1130" y="2571" as="sourcePoint" />
+            <mxPoint x="945" y="2570.67" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-33" value="diff 结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="2720" as="sourcePoint" />
+            <mxPoint x="270" y="2719.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-34" value="初始化" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="270" y="2280" as="sourcePoint" />
+            <mxPoint x="720" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-35" value="实例化" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="2310" as="sourcePoint" />
+            <mxPoint x="270" y="2310" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-36" value="初始化" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=15;" edge="1" parent="1" target="OLwPtn6KTZYXMYyV85He-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="935" y="2630" as="sourcePoint" />
+            <mxPoint x="855" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLwPtn6KTZYXMYyV85He-37" value="实例化" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="2670" as="sourcePoint" />
+            <mxPoint x="935" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
