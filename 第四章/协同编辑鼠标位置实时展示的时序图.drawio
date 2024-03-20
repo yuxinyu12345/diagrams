@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:34:54.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1OzlBS6oohg38TSddmkT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:35:45.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JJWfs6mlj1s_UmLwuecz" version="24.0.7" type="github">
   <diagram name="第 1 页" id="g2mbuYzWCaFJYCfIrHwu">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="ih_a9RpWsEoTNWJJqMao-22" value="返回权限判断是否可编辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1508" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ih_a9RpWsEoTNWJJqMao-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ih_a9RpWsEoTNWJJqMao-30">
+        <mxCell id="ih_a9RpWsEoTNWJJqMao-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ih_a9RpWsEoTNWJJqMao-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="1630" as="sourcePoint" />
             <mxPoint x="20" y="1630" as="targetPoint" />
@@ -240,6 +240,15 @@
             <mxPoint x="-270" y="1605" as="sourcePoint" />
             <mxPoint x="-350" y="1605" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_a9RpWsEoTNWJJqMao-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="ih_a9RpWsEoTNWJJqMao-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-173" y="2010" as="sourcePoint" />
+            <mxPoint x="-350" y="2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_a9RpWsEoTNWJJqMao-55" value="展示编辑人鼠标界面位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1980" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
