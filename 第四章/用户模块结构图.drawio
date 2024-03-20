@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T09:04:40.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MNvXS9B3Dl1luceU7DSR" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T01:41:00.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9h0wj9R6k6p63Jq_cBPq" version="24.0.7" type="github">
   <diagram name="第 1 页" id="gx0CAf-HGfpb9z3jjFb8">
     <mxGraphModel dx="2074" dy="3484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,11 +113,14 @@
         <mxCell id="n2puXXDJKAa573vDvbuu-46" value="配置可查看人员" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="383" y="-1620" width="33" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="n2puXXDJKAa573vDvbuu-55" value="模版查看" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="693" y="-1780" width="33" height="120" as="geometry" />
+        <mxCell id="n2puXXDJKAa573vDvbuu-55" value="模版展示" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="670" y="-1780" width="33" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n2puXXDJKAa573vDvbuu-56" value="模版应用" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="786" y="-1780" width="33" height="120" as="geometry" />
+          <mxGeometry x="794" y="-1780" width="33" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmthkhrQVclEZDeeYs1u-1" value="模版预览" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;spacing=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-1780" width="33" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
