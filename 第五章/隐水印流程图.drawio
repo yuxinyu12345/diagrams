@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T02:35:54.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="JaIDMDzouPoxPJsME_eL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T02:36:32.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AtA1TLK4mH-9n4vMGakT" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Who7YRJQoTMX7QLOEhAk">
-    <mxGraphModel>
+    <mxGraphModel dx="3728" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-2" target="UFEwbpb-ydkoV_pAHMwU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-2" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-4" target="UFEwbpb-ydkoV_pAHMwU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-4" value="切割分块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-6" target="UFEwbpb-ydkoV_pAHMwU-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-634" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-6" value="水印串" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-7" value="DCT变换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-8" value="编码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-7" target="UFEwbpb-ydkoV_pAHMwU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="350" as="sourcePoint" />
+            <mxPoint x="-530" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-305" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-11" target="UFEwbpb-ydkoV_pAHMwU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-11" value="把水印的编码值写入到频域值中" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UFEwbpb-ydkoV_pAHMwU-8" target="UFEwbpb-ydkoV_pAHMwU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="350" as="sourcePoint" />
+            <mxPoint x="-530" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-305" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEwbpb-ydkoV_pAHMwU-13" value="把频域的值经过反DCT变化，重新形成图像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="170" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
