@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:37:53.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nTsyl7Ec6Hl7ziOTODZD" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:38:06.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wu3eIhNazn3q9mwmJf-m" version="24.0.7" type="github">
   <diagram name="第 1 页" id="g2mbuYzWCaFJYCfIrHwu">
     <mxGraphModel dx="2901" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,10 +65,10 @@
         <mxCell id="ih_a9RpWsEoTNWJJqMao-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="745" y="1400" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ih_a9RpWsEoTNWJJqMao-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;fontSize=16;entryX=0.5;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ih_a9RpWsEoTNWJJqMao-13">
+        <mxCell id="ih_a9RpWsEoTNWJJqMao-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="1430" as="sourcePoint" />
-            <mxPoint x="690" y="1430" as="targetPoint" />
+            <mxPoint x="740" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ih_a9RpWsEoTNWJJqMao-15" value="根据token 查看权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ih_a9RpWsEoTNWJJqMao-14">
