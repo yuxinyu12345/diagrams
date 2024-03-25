@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T11:13:35.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TUQwrU9lMKW2b8gIDY_Z" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:14:59.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aZ3vLkKwxUrHKTR2H6TK" version="24.1.0" type="github">
   <diagram name="第 1 页" id="SAv2pcNWaHPI_d_t_Jxi">
     <mxGraphModel dx="445" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RhDZMjjsc5ACzwqg7XXK-1" value="ComponentsApi&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="-328" width="370" height="390" as="geometry" />
+          <mxGeometry x="1690" y="-328" width="370" height="410" as="geometry" />
         </mxCell>
         <mxCell id="RhDZMjjsc5ACzwqg7XXK-2" value="+ classifyModel: ClassifyModel&lt;br style=&quot;font-size: 17px;&quot;&gt;+&amp;nbsp;classifyDb: ClassifyDb&lt;br style=&quot;font-size: 17px;&quot;&gt;+ componentModel:ComponentModel&lt;br style=&quot;font-size: 17px;&quot;&gt;+ componentDb:ComponentDb" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=17;" parent="RhDZMjjsc5ACzwqg7XXK-1" vertex="1">
           <mxGeometry y="26" width="370" height="94" as="geometry" />
@@ -13,8 +13,8 @@
         <mxCell id="RhDZMjjsc5ACzwqg7XXK-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=17;" parent="RhDZMjjsc5ACzwqg7XXK-1" vertex="1">
           <mxGeometry y="120" width="370" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="RhDZMjjsc5ACzwqg7XXK-4" value="+ findClassifyPage(params): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findClassifyAll(params): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findClassifyById(id): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ addClassify(data): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ editClassify(data): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ removeClassify(id): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findComponentPage(params):void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ findComponentAll(params): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ findComponentById(id): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ addComponent(data): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ editComponent(data): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ removeComponent(id): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=17;" parent="RhDZMjjsc5ACzwqg7XXK-1" vertex="1">
-          <mxGeometry y="128" width="370" height="262" as="geometry" />
+        <mxCell id="RhDZMjjsc5ACzwqg7XXK-4" value="+ findClassifyPage(params): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findClassifyAll(params): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findClassifyById(id): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ addClassify(data): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ editClassify(data): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ removeClassify(id): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ findComponentPage(params):void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ findComponentAll(params): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ findComponentById(id): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ addComponent(data): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ editComponent(data): void&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;+ removeComponent(id): void&lt;div&gt;+ useComponentCount(id): void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=17;" parent="RhDZMjjsc5ACzwqg7XXK-1" vertex="1">
+          <mxGeometry y="128" width="370" height="282" as="geometry" />
         </mxCell>
         <mxCell id="RhDZMjjsc5ACzwqg7XXK-5" value="ComponentModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2190" y="-420" width="270" height="190" as="geometry" />
@@ -64,13 +64,13 @@
         <mxCell id="RhDZMjjsc5ACzwqg7XXK-18" value="+ validatorParams(): void&lt;br style=&quot;font-size: 17px;&quot;&gt;+ validatorId(params): void&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=17;" parent="RhDZMjjsc5ACzwqg7XXK-16" vertex="1">
           <mxGeometry y="34" width="270" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="RhDZMjjsc5ACzwqg7XXK-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.014;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;" parent="1" source="RhDZMjjsc5ACzwqg7XXK-4" target="RhDZMjjsc5ACzwqg7XXK-18" edge="1">
+        <mxCell id="RhDZMjjsc5ACzwqg7XXK-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="RhDZMjjsc5ACzwqg7XXK-4" target="RhDZMjjsc5ACzwqg7XXK-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2000" y="-199" as="sourcePoint" />
             <mxPoint x="1530" y="-388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RhDZMjjsc5ACzwqg7XXK-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.993;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.007;exitY=0.695;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;" parent="1" source="RhDZMjjsc5ACzwqg7XXK-4" target="RhDZMjjsc5ACzwqg7XXK-15" edge="1">
+        <mxCell id="RhDZMjjsc5ACzwqg7XXK-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.993;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.006;exitY=0.442;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;" parent="1" source="RhDZMjjsc5ACzwqg7XXK-4" target="RhDZMjjsc5ACzwqg7XXK-15" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1798" y="-318" as="sourcePoint" />
             <mxPoint x="1570" y="-148" as="targetPoint" />
