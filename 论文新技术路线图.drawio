@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T15:37:52.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IA9CFOvOIju61hkWgJvp" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T15:37:59.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u86hp1F9gqcq2la4KXDH" version="24.7.1" type="github">
   <diagram name="第 1 页" id="54AbXqlcH1Gsan5hpLr7">
     <mxGraphModel dx="2295" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8r6pL--Ohm4x6JLVSPcU-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman Regular&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;提出&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px; background-color: initial;&quot;&gt;双端对比和最长递增子序列对Json-Diff算法进行改进&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="400" width="170" height="80" as="geometry" />
+          <mxGeometry x="-60" y="400" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8r6pL--Ohm4x6JLVSPcU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8r6pL--Ohm4x6JLVSPcU-13" target="8r6pL--Ohm4x6JLVSPcU-17">
           <mxGeometry relative="1" as="geometry">
