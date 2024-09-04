@@ -28,8 +28,8 @@
         <mxCell id="hC-nPVAIg_cEMk8PZ4My-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;配置化&lt;/font&gt;&lt;div&gt;Configuring&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="414" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hC-nPVAIg_cEMk8PZ4My-5" value="低代码" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="hC-nPVAIg_cEMk8PZ4My-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;低代码&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hC-nPVAIg_cEMk8PZ4My-6" value="营销人员/产品经理/开发人员等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="220" y="640" width="200" height="30" as="geometry" />
