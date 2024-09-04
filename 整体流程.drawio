@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="ZnQBzVFdhI4roqcr7S9G">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eEm-LmAnYxr54y11vq96-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="eEm-LmAnYxr54y11vq96-1" target="eEm-LmAnYxr54y11vq96-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-1" value="JSON Schema 生成器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-2" value="组件属性JSON" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-3" value="自定义组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="470" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-4" value="平台标准物料组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-5" value="属性面板解析器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="850" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-6" value="可视化面板(活动设计页面)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-7" value="活动页面JSON" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="860" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-8" value="自定义搭建的活动页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="860" y="660" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-9" value="活动页面模版" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="510" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEm-LmAnYxr54y11vq96-2" target="eEm-LmAnYxr54y11vq96-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEm-LmAnYxr54y11vq96-3" target="eEm-LmAnYxr54y11vq96-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="sourcePoint" />
+            <mxPoint x="630" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEm-LmAnYxr54y11vq96-4" target="eEm-LmAnYxr54y11vq96-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="sourcePoint" />
+            <mxPoint x="630" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eEm-LmAnYxr54y11vq96-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="560" as="sourcePoint" />
+            <mxPoint x="660" y="512.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-16" value="可视化搭建属性面板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-18" value="conponent.json" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-19" value="index.vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-20" value="conponent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eEm-LmAnYxr54y11vq96-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="560" as="sourcePoint" />
+            <mxPoint x="680" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-22" value="conponent.json" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEm-LmAnYxr54y11vq96-23" value="index.vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
