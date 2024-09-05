@@ -125,9 +125,9 @@
           <mxGeometry x="2610" y="965" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NRevZc9M5u2fvVdbCz_4-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="1169" width="30" height="60" as="geometry" />
+          <mxGeometry x="2650" y="1150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NRevZc9M5u2fvVdbCz_4-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="NRevZc9M5u2fvVdbCz_4-3" target="NRevZc9M5u2fvVdbCz_4-1">
+        <mxCell id="NRevZc9M5u2fvVdbCz_4-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NRevZc9M5u2fvVdbCz_4-3" target="NRevZc9M5u2fvVdbCz_4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3020" y="847" as="sourcePoint" />
             <mxPoint x="3070" y="797" as="targetPoint" />
