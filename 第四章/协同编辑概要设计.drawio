@@ -8,7 +8,7 @@
           <mxGeometry x="1980" y="720" width="480" height="340" as="geometry" />
         </mxCell>
         <mxCell id="NHMH0d2KJpOCK29Jr06_-2" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="945" width="60" height="30" as="geometry" />
+          <mxGeometry x="2008" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NHMH0d2KJpOCK29Jr06_-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2060" y="1140" width="30" height="60" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="2510" y="725" width="510" height="335" as="geometry" />
         </mxCell>
         <mxCell id="NRevZc9M5u2fvVdbCz_4-2" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="965" width="60" height="30" as="geometry" />
+          <mxGeometry x="2520" y="1005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NRevZc9M5u2fvVdbCz_4-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2650" y="1150" width="30" height="60" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="3140" y="720" width="510" height="335" as="geometry" />
         </mxCell>
         <mxCell id="NRevZc9M5u2fvVdbCz_4-22" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="960" width="60" height="30" as="geometry" />
+          <mxGeometry x="3160" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NRevZc9M5u2fvVdbCz_4-23" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3278" y="1169" width="30" height="60" as="geometry" />
