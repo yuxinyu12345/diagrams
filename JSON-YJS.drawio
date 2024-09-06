@@ -46,8 +46,8 @@
             <mxPoint x="550" y="669.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vi4SyUSUemwbpOqSwb4V-18" value="转换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="421" y="630" width="60" height="30" as="geometry" />
+        <mxCell id="vi4SyUSUemwbpOqSwb4V-18" value="Y-VUE-JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
