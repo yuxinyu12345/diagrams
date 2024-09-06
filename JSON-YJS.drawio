@@ -40,11 +40,14 @@
         <mxCell id="vi4SyUSUemwbpOqSwb4V-16" value="YJS格式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="625" y="510" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vi4SyUSUemwbpOqSwb4V-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
+        <mxCell id="vi4SyUSUemwbpOqSwb4V-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=22;labelBackgroundColor=#67AB9F;fontColor=#67AB9F;fillColor=#67AB9F;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="669.5" as="sourcePoint" />
             <mxPoint x="550" y="669.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vi4SyUSUemwbpOqSwb4V-18" value="转换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="414" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
