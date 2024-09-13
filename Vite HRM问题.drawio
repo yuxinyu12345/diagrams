@@ -33,11 +33,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MkpQsOBrH_bIDikwUGlz-10" value="更新B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MkpQsOBrH_bIDikwUGlz-10" value="update B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MkpQsOBrH_bIDikwUGlz-11" value="无法更新C文件，除非在C中引进B文件，但是这个C文件太多了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="630" width="200" height="30" as="geometry" />
+        <mxCell id="MkpQsOBrH_bIDikwUGlz-11" value="Cannot update C file inport B, but there are too many C files" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
